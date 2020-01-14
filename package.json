@@ -1,0 +1,26 @@
+{
+  "name": "proxyip",
+  "version": "1.0.0",
+  "description": "代理ip转存",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lininn/proxyip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lininn/proxyip/issues"
+  },
+  "homepage": "https://github.com/lininn/proxyip#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0"
+  }
+}

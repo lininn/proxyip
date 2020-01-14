@@ -80,7 +80,7 @@ reqAction(thisOpts).then(data=>{
                      console.error('error-------'+e);
                 }
                 if(i>=len){
-                    console.log(arr);
+                 //   console.log(arr);
                 }
     
             });
